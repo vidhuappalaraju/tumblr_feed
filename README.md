@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-![tumble_feedlab1](https://user-images.githubusercontent.com/8825679/45250607-51e0f480-b2fc-11e8-96b6-8900dc237b0f.gif)
+![tumble_feedlab1](https://user-images.githubusercontent.com/8825679/45250694-370f7f80-b2fe-11e8-828e-412f131cd52d.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
