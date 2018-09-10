@@ -21,12 +21,12 @@ The following **stretch** user stories are implemented:
 
 The following **additional** user stories are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+- [x] Just added a launch image and app icon to make the application look cleaner
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. Adjusting the size of the imageView. I kind of just did trial and error to make the imageviews look okay in a sequence but I was wondeirng if there was a better way to go about doing this. 
-2. 
+1. Adjusting the size of the imageView. I kind of just did trial and error to make the imageviews look okay in a sequence but I was wondering if there was a better way to go about doing this. 
+2. While I was generating the app icon sizes, I want to know if there is an easier way to do this. 
 
 ## Video Walkthrough
 
